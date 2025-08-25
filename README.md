@@ -1,24 +1,14 @@
-# BonziWORLD Enhanced
+# TaikoWORLD RelVer
 
-**This bonziworld respository houses the source code to BonziWORLD: Enhanced.**
+**idk**
 <br>
-The source code has been made public because I would like to move on from this project and work on something else. Since it's just been sitting here collecting dust, I figured I should make this public. Who knows, maybe somebody will find this useful.
+I forked this cause it's been very forked recently, and I decided to hop in to the trend.
 <br><br>
 ## What is this?
-BonziWORLD Enhanced is a fork of vanilla BonziWORLD which provides simple qol improvements and bug fixes to the original.
+TaikoWORLD is a.
 <br><br>
 
 #### Quick Links
 - [TODO](TODO.md "Things I need to work on...")
 - [SETUP](SETUP.md "View the setup instructions for this project...")
 - [LICENSE](LICENSE.md "View this project's license...")
-
-<hr>
-
-### License & Copyright
-MIT
-
-Copyright (c) 2023-2026 Cosmic
-
-
-<hr>

@@ -1,11 +1,11 @@
 {
-  "name": "bonziworld_e_server",
-  "version": "1.0.0",
-  "description": "Server for the BonziWORLD Enhanced chat client.",
+  "name": "taikoworld",
+  "version": "release 1.0.0",
+  "description": "Thur kewl server for those against bonzi.gay",
   "author": "Cosmic",
   "private": true,
   "license": "MIT",
-  "keywords": ["bonziworld"],
+  "keywords": ["taikoworld"],
   "repository": {
     "type": "git",
     "url": "https://github.com/CosmicStar98/BonziWORLD-Enhanced.git"
